@@ -1,3 +1,4 @@
+
 Frontend Application - Getting Started
 This is the frontend of the Affworld Assignment project. Below are the steps to set up and run the application locally without requiring a backend.
 
