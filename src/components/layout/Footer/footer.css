@@ -1,0 +1,25 @@
+.footer {
+  background-color: #dcdcdc;
+  color: #2f2f2f;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 14px;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.footer a {
+  color: #1890ff;
+  text-decoration: none;
+  font-weight: 500;
+  margin-left: 5px;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .footer {
+    font-size: 12px;
+  }
+}

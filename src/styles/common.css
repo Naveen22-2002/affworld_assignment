@@ -1,0 +1,25 @@
+.home-page {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: linear-gradient(to bottom, #f5f5f5, #e6eaf0);
+  }
+  
+  .content {
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  .content h1 {
+    font-size: 36px;
+    color: #001529;
+    margin-bottom: 20px;
+  }
+  
+  .content p {
+    font-size: 18px;
+    color: #555;
+    line-height: 1.6;
+  }
+  
